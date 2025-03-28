@@ -27,6 +27,6 @@ def main():
         else:
             result.append(num * stepen)
 
-    print("Ответ:", ' '.join(result))
+    print("Ответ:", ' '.join(result)) # можно ввести как по заданию, ответ будет выводить с типом плавающей точкой
 main()
 
